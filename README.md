@@ -1,7 +1,7 @@
 # in-outdoor-navigation-copter
 Final year project to navigate a copter indoor and outdoor
 
-This file is used for explaining the final year project done by Xianzhen. Some necessary softwares, simulation tools, operation sysytem and how to configure the operation environment will be introduced in this file.
+This file is used for explaining the final year project done by Xianzhen Guo (guoxianzhen98@gmail.com). Some necessary softwares, simulation tools, operation sysytem and how to configure the operation environment will be introduced in this file.
 
 Operation system
 This project is developed and tested on Ubuntu 16.04.
